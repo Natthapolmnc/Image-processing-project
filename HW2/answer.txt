@@ -1,0 +1,8 @@
+1.the 8th plane contain the most important thing about the image which let's differentiate what is in the photo and as the lower the number of plane goes it told us further in the detail like the colour of the flower ,gradient ,and environment around the flower. 
+2.
+a.both images have almost the same histogram even if they're clearly different pictures.
+b.Although, the histogram of both image have very little changes but it still differentiate both pictures.
+c.the image is consisted in this folder along with the histogram.
+d.both images still have almost the same histogram but the range of number of pixels in each grey level are increased.
+
+3.when apply the bigger average square mask to the picture the picture gotten blurer because the the number of pixels that included in the average function is increased.

@@ -1,0 +1,5 @@
+c.
+Nearest interpolation result in less pixelate image compare to bilinear interpolation result.
+
+d.
+the less k the less variaty of the clour will available for the picture to uses
